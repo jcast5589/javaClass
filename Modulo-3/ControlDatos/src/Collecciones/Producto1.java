@@ -1,11 +1,11 @@
-package Ejemplos;
+package Collecciones;
 
-public class Producto {
+public class Producto1 {
     String codigo;
     int cantidad;
     int stock;
 
-    public Producto(String codigo, int cantidad, int stock) {
+    public Producto1(String codigo, int cantidad, int stock) {
         this.codigo = codigo;
         this.cantidad = cantidad;
         this.stock = stock;
